@@ -1,7 +1,7 @@
 #项目全局配置
 server:
   context-path: /dealer
-  port: 8888
+  port: 8881
 
 #数据源配置
 spring:
